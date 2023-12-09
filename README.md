@@ -17,3 +17,7 @@ Features:
 4. Tracks the player's score based on successful guesses.
    
 5. Option to play multiple rounds.
+
+
+# Student Grade Calculator
+The Student Grade Calculator is a simple tool to calculate and manage student grades based on entered marks.
